@@ -115,8 +115,7 @@ crm-management-system/
 
 ### Environment Variables
 
-Never commit `.env` files. Store API keys and secrets only in environment configuration. Rotate keys if exposed.
-
+You can check the variables requirements in backend folder backend/.envexample
 ## Prerequisites
 
 - Node.js 18 or later
