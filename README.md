@@ -258,23 +258,7 @@ The first user or an email listed in `ADMIN_EMAILS` receives the admin role auto
 
 Deployment will be configured in a future update. For now, run the project locally using the setup steps above.
 
-## Testing Checklist
 
-Before deployment, verify:
-
-- Login and signup (email and Google)
-- Dashboard loads without permission errors
-- Contacts create, edit, delete, import
-- Customer welcome email automation
-- Deals pipeline drag and drop
-- Tasks create and calendar
-- Communications send and delete
-- Documents upload
-- Reports export
-- Settings profile and admin sections
-- AI assistant chat response
-- Real-time notifications
-- Legal pages render correctly
 
 ## License
 
