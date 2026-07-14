@@ -207,7 +207,7 @@ Support guidance on legal pages directs users to the CRM AI Assistant.
 | Manager | Users, activity, CRM modules, reports |
 | Sales Rep | Contacts, deals, tasks, communications, documents |
 | Support | Users (view), CRM modules |
-| HR | Users, activity, profile |
+| HR | Users, activity, profile 
 
 The first user or an email listed in `ADMIN_EMAILS` receives the admin role automatically.
 
